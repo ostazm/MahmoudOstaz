@@ -27,7 +27,7 @@
 
   - Keen on learning programming and exploring AI & ML.
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=MahmoudOstaz&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ostazm&show_icons=true)
     
 ![Total Contribution](https://github-readme-streak-stats.herokuapp.com/?user=ostazm)
 
